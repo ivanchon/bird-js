@@ -55,8 +55,6 @@ input.form-control {
 `;
 
 
-
-
 class HeroHome extends Component {
 
 	constructor(props) {
